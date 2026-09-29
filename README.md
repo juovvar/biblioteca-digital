@@ -5,7 +5,7 @@ Aplicacion web para descubrir, leer y reseñar obras literarias.
 [![Link del sitio](https://img.shields.io/badge/Link_del_sitio-Acceder_a_la_Biblioteca-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biblioteca-digital.infinityfreeapp.com/)
 
 <p align="center">
-  <img src="docs/capturas/index.gif" alt="Recorrido: inicio de sesión, apertura de un libro y publicación de una reseña" width="57%">
+  <img src="docs/capturas/index.gif" alt="Recorrido: inicio de sesión, apertura de un libro y publicación de una reseña" width="100%">
 </p>
 
 ---
@@ -32,11 +32,11 @@ El proyecto se desarrolló sin frameworks, tanto en el frontend como en el backe
 </p>
 
 <p align="center">
-  <img src="docs/capturas/index2.gif" alt="Cambio entre modo claro y modo oscuro" width="57%">
+  <img src="docs/capturas/index2.gif" alt="Cambio entre modo claro y modo oscuro" width="100%">
 </p>
 
 <p align="center">
-  <img src="docs/capturas/medias_example.png" alt="Vista en iPad Mini" width="45%">
+  <img src="docs/capturas/medias_example.png" alt="Vista en iPad Mini" width="80%">
 </p>
 
 ### Detalle de Libros y Lectura
@@ -47,10 +47,10 @@ El proyecto se desarrolló sin frameworks, tanto en el frontend como en el backe
 * **Acceso protegido:** Los libros solo están disponibles para usuarios autenticados.
 
 <p align="center">
-  <img src="docs/capturas/libros_oscuro1.png" alt="Detalle de un libro" width="49%">
+  <img src="docs/capturas/libros_oscuro1.png" alt="Detalle de un libro" width="100%">
 </p>
 <p align="center">
-<img src="docs/capturas/libros_oscuro2.png" alt="Reseñas de la comunidad" width="49%">
+<img src="docs/capturas/libros_oscuro2.png" alt="Reseñas de la comunidad" width="100%">
 </p>
 
 ### Sistema de Reseñas
@@ -58,10 +58,11 @@ El proyecto se desarrolló sin frameworks, tanto en el frontend como en el backe
 * **Calificación por estrellas** de 1 a 5.
 * **Una reseña por usuario y libro**, que puede editarse o eliminarse en cualquier momento.
 * **Reseñas de la comunidad** visibles en la ficha de cada obra.
-
 <p align="center">
-  <img src="docs/capturas/libro_oscuro3_form_prev.png" alt="Formulario de edición de reseña" width="49%">
-  <img src="docs/capturas/libros_oscuro4_form_afteredit.png" alt="Reseña actualizada" width="49%">
+  <img src="docs/capturas/libro_oscuro3_form_prev.png" alt="Formulario de edición de reseña" width="100%">
+</p>
+<p align="center">
+  <img src="docs/capturas/libros_oscuro4_form_afteredit.png" alt="Reseña actualizada" width="100%">
 </p>
 
 ### Registro e Inicio de Sesión
@@ -93,20 +94,20 @@ Si el usuario ya tiene una sesión iniciada, las páginas de acceso y registro l
 * **Ajustes:** cambio de nombre, correo y contraseña, y eliminación de la cuenta. Los cambios sensibles requieren confirmar la contraseña actual.
 
 <p align="center">
-  <img src="docs/capturas/cuenta_1.png" alt="Pantalla principal de la cuenta" width="85%">
+  <img src="docs/capturas/cuenta_1.png" alt="Pantalla principal de la cuenta" width="100%">
 </p>
 
 <details>
 <summary>Ver ventanas de ajustes de la cuenta</summary>
 
 <p align="center">
-  <img src="docs/capturas/cuenta_2.png" alt="Ventana para cambiar el nombre de usuario" width="49%">
-  <img src="docs/capturas/cuenta_3.png" alt="Ventana para cambiar el correo electrónico" width="49%">
+  <img src="docs/capturas/cuenta_2.png" alt="Ventana para cambiar el nombre de usuario" width="100%">
+  <img src="docs/capturas/cuenta_3.png" alt="Ventana para cambiar el correo electrónico" width="100%">
 </p>
 
 <p align="center">
-  <img src="docs/capturas/cuenta_4.png" alt="Ventana para cambiar la contraseña" width="49%">
-  <img src="docs/capturas/cuenta_5.png" alt="Ventana para eliminar la cuenta" width="49%">
+  <img src="docs/capturas/cuenta_4.png" alt="Ventana para cambiar la contraseña" width="100%">
+  <img src="docs/capturas/cuenta_5.png" alt="Ventana para eliminar la cuenta" width="100%">
 </p>
 
 </details>
